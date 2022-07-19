@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WinFormsApp1/1.0.0": {
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        },
+        "resources": {
+          "tr-TR/WinFormsApp1.resources.dll": {
+            "locale": "tr-TR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
